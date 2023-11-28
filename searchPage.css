@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(231, 213, 203);
+}
+
+
+.dropdown-container {
+    display: flex;
+    height:500px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#zipCode {
+    width: 150px;
+    height: 30px;
+}
+
+#storeName {
+    width: 200px;
+    height: 30px;
+}
+
+.searchBtn {
+    width: 150px;
+    height: 30px;
+}
